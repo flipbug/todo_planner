@@ -1,0 +1,5 @@
+obj/*
+wwwroot/lib/*
+
+*.min.js
+*.min.css
